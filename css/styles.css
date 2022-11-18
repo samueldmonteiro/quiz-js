@@ -30,6 +30,7 @@ body{
 .question{
     text-align: center;
 }
+
 .question .question-title{
     animation: hover ease-out 0.3s;
     margin-bottom: 30px;

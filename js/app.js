@@ -87,7 +87,7 @@ const showResult = () => {
     
     } else if(percentResult >= 70){
         msg = "Muito Bom!";
-        color = '#ff0e0e';
+        color = '#f9ff00';
     
     } else if(percentResult >= 40){
         msg = "Bom! Quase Lá";
